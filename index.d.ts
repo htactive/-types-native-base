@@ -6,6 +6,7 @@ declare module "native-base" {
 		interface Text extends ReactNative.TextProperties {
 			note?: boolean;
 			uppercase?: boolean;
+			bold?:boolean;
 		}
 
 		interface Switch extends ReactNative.SwitchProperties {}

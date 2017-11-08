@@ -1,0 +1,11 @@
+{
+  "name": "@types/native-base",
+  "description": "TypeScript type definitions for Native Base.",
+  "version": "1.0.0",
+  "author": {
+    "name": "HT Active",
+    "email": "services@htactive.com"
+  },
+  "typings": "./index.d.ts",
+  "private": false
+}
